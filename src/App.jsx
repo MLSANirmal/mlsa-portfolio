@@ -27,10 +27,10 @@ const siteProps = {
   name: "Nirmal Naveen Chandrasiri",
   title: "DevOps Engineer | Cloud Engineer",
   email: "nirmalnaveen95@gmail.com.com",
-  gitHub: "https://github.com/NirmalNaveen20",
+  gitHub: "NirmalNaveen20",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/nirmal-naveen/",
-  medium: "https://nirmalnaveen.medium.com/",
+  linkedIn: "nirmal-naveen/",
+  medium: "nirmalnaveen",
   twitter: "",
   youTube: "",
 };
