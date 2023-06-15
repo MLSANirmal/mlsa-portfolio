@@ -25,12 +25,12 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Nirmal Naveen Chandrasiri",
-  title: "DevOps Engineer / Cloud Engineer",
+  title: "DevOps Engineer | Cloud Engineer",
   email: "nirmalnaveen95@gmail.com.com",
-  gitHub: "nirmal-naveen",
+  gitHub: "https://github.com/NirmalNaveen20",
   instagram: "",
-  linkedIn: "nirmal-naveen",
-  medium: "",
+  linkedIn: "https://www.linkedin.com/in/nirmal-naveen/",
+  medium: "https://nirmalnaveen.medium.com/",
   twitter: "",
   youTube: "",
 };
