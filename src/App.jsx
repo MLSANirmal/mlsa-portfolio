@@ -7,6 +7,7 @@
 import React from "react";
 
 import About from "./Components/About";
+import Education from "./Components/Education";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
@@ -25,7 +26,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Nirmal Naveen Chandrasiri",
-  title: "DevOps Engineer | Cloud Engineer",
+  title: "DevOps Engineer",
   email: "nirmalnaveen95@gmail.com.com",
   gitHub: "NirmalNaveen20",
   instagram: "",
@@ -44,6 +45,7 @@ const App = () => {
       <Header />
       <Home name={siteProps.name} title={siteProps.title} />
       <About />
+      <Education />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
