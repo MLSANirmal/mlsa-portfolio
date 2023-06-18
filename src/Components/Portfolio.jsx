@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Mozilla Firefox Technology & Services",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Mozilla is a prominent technology organization known for its contributions to open-source software and the development of popular applications and tools. Here's a brief overview of Mozilla and its key technologies:",
+    url: "https://nirmalnaveen.medium.com/mozilla-firefox-technology-services-47da30e6c8d7",
   },
   {
-    title: "Web Development for Beginners",
+    title: "RoyalLands - MERN Stack Real Estate Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "RoyalLands is a full-stack web application built using the MERN Stack. The web application is designed to simplify the process of finding and renting properties, making it easier for users to browse through available properties and connect with agents.",
+    url: "https://github.com/NirmalNaveen20/royal-lands",
   },
   {
-    title: "My Resume Site",
+    title: "Flavorshare Social Media React App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a social media app built using React and Redux, with a beautiful UI powered by Chakra UI. With Flavorshare, users can register and create new posts to share with their friends and followers. They can also like and comment on other users' posts, and save their favorite posts for later.",
+    url: "https://github.com/NirmalNaveen20/flavorshare",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introduction to Developer Tools with AWS",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "AWS cloud developer tools, it will want to get to know the following developer tool services mentioned in this article.",
+    url: "https://nirmalnaveen.medium.com/introduction-to-developer-tools-with-aws-279b5395a3ed",
   },
 ];
 
