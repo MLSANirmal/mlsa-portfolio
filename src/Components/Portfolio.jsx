@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/NirmalNaveen20/flavorshare",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introduction to Developer Tools with AWS",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "AWS cloud developer tools, it will want to get to know the following developer tool services mentioned in this article.",
+    url: "https://nirmalnaveen.medium.com/introduction-to-developer-tools-with-aws-279b5395a3ed",
   },
 ];
 
