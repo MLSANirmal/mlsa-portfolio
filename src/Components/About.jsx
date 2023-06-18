@@ -11,12 +11,11 @@ const description =
 
 
 const skillsList = [
-  "Docker",
-  "Kubernetes",
-  "Web Designing",
-  "Cloud Computing",
-  "MERN Stack",
-  "App Development",
+  "Git Workflow",
+  "Web Development(ReactJs | NodeJs | Python | Django | )",
+  "Cloud Computing (AWS | Azure)",
+  "DevOps Practices(CI/CD)",
+  "App Development(Android Studio | React Native)",
 ];
 
 
